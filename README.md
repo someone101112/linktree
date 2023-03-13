@@ -2,22 +2,8 @@
 
 This Linktree Was Made By gzf
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="icon" type="image/x-icon" href="https://cdn.discordapp.com/avatars/935053416877666304/d913244db36cba9ee0145e9345e1b9e7.png">
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#2f3136" data-react-helmet="true" />
-    <meta name="author" content="gzf">
-    <meta name="description" content="A portal to all my links">
-    <meta name="keywords" content="gzf, gzf.dev, gzf-dev, gzf_dev, Arsan">
-    <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Gzf • Linktree">
-    <meta property="og:description" content="Hi, Im Gzf. And here's the portal to all of my links.">
-    <meta property="og:image" content="https://cdn.discordapp.com/avatars/935053416877666304/d913244db36cba9ee0145e9345e1b9e7.png">
-    <meta property="og:url" content="http://gzf-linktree.great-site.net" />
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Syne"/>
     <title>Linktree</title>
